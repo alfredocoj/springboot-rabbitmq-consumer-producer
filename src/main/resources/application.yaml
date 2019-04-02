@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: mqadmin
+    password: Admin123XX_
+    host: 10.121.2.211
+server:
+  port: 8082
